@@ -1,10 +1,13 @@
 # **The "Praxium" Learning Foundation: Social Value Proposition & Nonprofit Organization**  
-**Mission:** To empower communities through education, collaboration, and innovation in social impact.
+**Mission:** Create fellowship by valuing diversity and uniting in the journey to attain freedom.
 
 ---
 
 ## 📚 About Us  
-Praxium is a nonprofit dedicated to delivering transformative educational experiences that align with social value propositions. Our focus includes digital tools (e.g., MS 365, Zoom), intellectual assets (brand trademarks, educational materials), and human capital (Core Council, volunteers). We prioritize stakeholder engagement through ongoing communication, support, and awareness.
+Praxium is a nonprofit dedicated to developing and delivering transformative educational experiences that align with our values. We promote the Endeavor, a cross-cultural philosophy, way of being and way of living. The ways we choose to do this includes:
+-Creating and maintaining a vibrant learning community
+-Advocate for accessible, inclusive, and innovative learning
+-Support communities to advance education and shared social goals 
 
 ---
 
