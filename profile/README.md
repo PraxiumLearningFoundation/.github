@@ -4,10 +4,8 @@
 ---
 
 ## 📚 About Us  
-Praxium is a nonprofit dedicated to developing and delivering transformative educational experiences that align with our values. We promote the Endeavor, a cross-cultural philosophy, way of being and way of living. The ways we choose to do this includes:
--Creating and maintaining a vibrant learning community
--Advocate for accessible, inclusive, and innovative learning
--Support communities to advance education and shared social goals 
+Praxium is a nonprofit dedicated to developing and delivering transformative educational experiences that align with our values. We promote the Endeavor, a cross-cultural way of being and way of living. The ways we choose to do this includes: 1) Creating and maintaining a vibrant learning community, 2) Advocate for accessible, inclusive, and innovative learning
+and 3) Support communities to advance quality education and shared interests
 
 ---
 
