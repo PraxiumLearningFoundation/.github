@@ -21,9 +21,9 @@ Praxium is a nonprofit dedicated to developing and delivering transformative edu
 ---
 
 ## 📚 Contribution Guidelines  
-- **Volunteer:** Join our Core Council or Advisory Council to shape our mission.  
-- **Donate:** Support our social impact advocates and grant programs.  
-- **Share:** Engage with our digital learning hub, podcasts, and social media presence.  
+- **Volunteer:** Join as a member and contribute to our mission.  
+- **Donate:** Support our social impact through donations or resources.  
+- **Share:** Engage with our digital learning hub and share our multimedia with your communities.  
 
 ---
 
