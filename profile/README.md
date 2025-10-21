@@ -45,8 +45,8 @@ The Praxium is a nonprofit dedicated to developing and delivering transformative
 ## 📚 Vision & Values  
 Our vision is to foster unity and freedom for all. We believe in the potential for humanity to peacefully co-exist with the larger, natural world. Our values for transcendence include:  
 - **Peace:** All have resources to safely mediate conflict and arrive at consensus   
-- **Justice:** All have purpose to solve problems of inequity and injustice in communities  
-- **Equality:** All have access and opportunity to flourish in balance 
+- **Justice:** All have support to solve problems of inequity and injustice in communities  
+- **Equality:** All have access and opportunity to flourish with spiritual balance 
 
 ---
 
