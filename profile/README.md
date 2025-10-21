@@ -1,4 +1,4 @@
-# **The "Praxium" Learning Foundation: A Transnational Nonprofit Organization**
+# **The "Praxium" Learning Foundation: A global enterprise**
 **Vision:** Unity and Freedom for All.
 **Mission:** Create fellowship by valuing diversity and uniting in the journey to attain freedom.
 
